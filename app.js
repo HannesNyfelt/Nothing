@@ -20,8 +20,7 @@ let Right = document.getElementById("div6");
 let BottomLeft = document.getElementById("div7");
 let BottomMiddle = document.getElementById("div8");
 let BottomRight = document.getElementById("div9");
-let playspace = document.getElementById("playspace")
-
+let playspace = document.getElementById("playspace");
 
 btn1.addEventListener("click", function change1() {
     hero.innerHTML = "Don't touch that!"
